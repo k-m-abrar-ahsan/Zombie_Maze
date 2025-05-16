@@ -43,7 +43,7 @@ PyOpenGL_accelerate
 
 2. Run the game:
    ```bash
-   python pro_v3.py
+   python game.py
    ```
 
 > ℹ️ Make sure your system supports OpenGL and you're running this in a GUI-enabled environment (e.g., Windows, macOS, or a Linux desktop session).
