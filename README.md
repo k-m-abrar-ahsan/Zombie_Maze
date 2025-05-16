@@ -68,9 +68,7 @@ PyOpenGL_accelerate
 
 | Third-Person View | First-Person View |
 |------------------|-------------------|
-| ![image](https://github.com/user-attachments/assets/11efdb9a-0cc6-4870-bd54-6bb7e910d2d7)
- |![image](https://github.com/user-attachments/assets/d964ea73-57da-446f-be76-d32c6c2a928b)
- |
+| ![image](https://github.com/user-attachments/assets/11efdb9a-0cc6-4870-bd54-6bb7e910d2d7)|![image](https://github.com/user-attachments/assets/d964ea73-57da-446f-be76-d32c6c2a928b)|
 
 ---
 
