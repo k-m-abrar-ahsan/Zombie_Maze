@@ -1,6 +1,6 @@
 A 3D zombie maze survival game built using **Python + PyOpenGL**, where you explore a procedurally generated maze, evade or shoot down enemies, and try to escape alive. This project showcases real-time rendering, basic AI, and keyboard/mouse interaction using OpenGL.
 
-![image](https://github.com/user-attachments/assets/923f18b6-5178-4a08-b1c8-3228b55f8373)
+![Demo GIF](zombie_maze)
 
 
 ---
