@@ -37,7 +37,7 @@ PyOpenGL_accelerate
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/yourusername/Zombie_Maze.git
+   git clone https://github.com/k-m-abrar-ahsan/Zombie_Maze.git
    cd Zombie_Maze
    ```
 
