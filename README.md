@@ -2,7 +2,6 @@ A 3D zombie maze survival game built using **Python + PyOpenGL**, where you expl
 
 ![Demo GIF](zombie_maze)
 
-
 ---
 
 ## 🎮 Features
